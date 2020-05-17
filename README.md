@@ -1,5 +1,5 @@
 # Online User Counter
-That's a simple Online User Count.
+That's a simple Online User Counter for FiveM.
 
 # Exemple:
 https://i.imgur.com/Q1c8mvf.png
