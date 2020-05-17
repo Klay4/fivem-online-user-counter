@@ -1,6 +1,9 @@
 # Online User Counter
 That's a simple Online User Count.
 
+# Exemple:
+https://i.imgur.com/Q1c8mvf.png
+
 # Installation:
 
 1) Download the resource and then put it the resources folder
